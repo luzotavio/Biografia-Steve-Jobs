@@ -10,13 +10,13 @@ tópicos */
 }
 
 body {
-    background-color:  #839CFD;
+    background-color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color: #414D7D;
-    min-height: 150px;
+    background-color: black;
+    min-height: 110px;
     text-align: center;
     padding-top: 40px;
 }
@@ -31,9 +31,8 @@ header h1 {
 
 
 nav {
-    background-color: #0F1A45;
+    background-color: black;
     padding: 10px;
-    box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.579);
 }
 
 nav a {
@@ -50,9 +49,7 @@ main {
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.59);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
+
 }
 
 main h2 {
@@ -75,7 +72,7 @@ main img {
 }
 
 footer {
-    background-color: #414D7D;
+    background-color: #0F1A45;
     color: white;
     text-align: center;
     font-size: 0.8em;
