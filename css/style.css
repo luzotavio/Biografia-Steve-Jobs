@@ -11,13 +11,13 @@ body {
 
 header {
     background-color: black;
-    height: 113px;
+    height: 120px;
    
 }
 
 header h1 {
     color: white;
-    margin-bottom: 20px;
+    padding-top: 10px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.523);
     text-align: center;
@@ -27,6 +27,7 @@ header h1 {
 nav {
     background-color: black;
     padding: 10px;
+    text-align: right;
 }
 
 nav a {
@@ -34,6 +35,7 @@ nav a {
     padding: 10px;
     text-decoration: none;
     font-weight: bold;
+    font-size: 1.5em;
 }
 
 main {
